@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+sqlalchemy
+pydantic
+httpx
+requests
+twilio
+firecrawl-py
+apify-client
+openai
+python-multipart
+tenacity
+beautifulsoup4
+pytest
+pytest-asyncio
